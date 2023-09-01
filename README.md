@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanvermai30&label=Profile%20views&color=0e75b6&style=flat" alt="amanvermai30" eidth="300"/> </p> <h1 align="center">Hi 👋, I'm Ashish Kushwaha</h1>
-<h3 align="center">I'm a Java Backend Developer with hands-on experience in designing, developing, and maintaining projects.</h3>
+<h3 align="center">I'm a Full Stack Developer with hands-on experience in designing, developing, and maintaining projects.</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom+to+my+github+Valley;Full+Stack+developer;Java+Backend+Developer;Web+Developer;Adventurer;Problem+Solver;Traveller;&color=teal&center=true" />
@@ -42,13 +42,13 @@ I'm a Full Stack Web Developer with hands-on experience in designing, developing
 👯 Interested in future technologies....<br>
 👯 Self Motivated<br>
 ⚡ Fast learner<br>
-💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
+💬 Ask me about Javascript, Python, HTML, CSS, DSA<br>
 
-📫 How to reach me: vermaamanmr@gmail.com <br>
+📫 How to reach me: ashishkushwaha472004@gmail.com <br>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://1drv.ms/b/s!AlLnUQaCWDjhgQmDzQ1zmSVBZMPR?e=lng1y9)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume]()<br>
 
-Want to know more about me? [Check out My Portfolio](https://amanvermai30.github.io/)
+Want to know more about me? [Check out My Portfolio]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
