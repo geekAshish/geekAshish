@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from India<br><br>- 🔭 I’m working as software engineer<br>- 📚 I'm currently learning blockchain<br>- ⚡ In my free time I like solve math problems.</p>
+<p align="left">I'm Ashish, and I'm from India</p>
 
 ###
 
