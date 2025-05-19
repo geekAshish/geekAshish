@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ashish, and I'm from India</p>
+<p align="left">I'm Ashish.</p>
 
 ###
 
